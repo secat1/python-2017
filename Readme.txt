@@ -1,1 +1,1 @@
-This is my very first Github edit. Lol.
+Solving select programming exercises / examples from Introduction to Programming Using Python ny Y. Daniel Liang
