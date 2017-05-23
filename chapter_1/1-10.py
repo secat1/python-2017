@@ -1,4 +1,3 @@
-# Introduction to Programming Using Python
 # Exercise 1.10
 
 import turtle
